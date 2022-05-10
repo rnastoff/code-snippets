@@ -1,0 +1,12 @@
+li {
+  list-style: none;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.date {
+  font-size: 0.8rem;
+}
